@@ -4,7 +4,7 @@ digit_count = 0
 space_count = 0
 other_count = 0
 # 从键盘输入一行字符
-input_str = input("请输入一行字符：")
+input_str = input()
 # 遍历输入字符串中的每个字符
 for char in input_str:
     # 判断是否为英文字符（包括大写和小写字母）
